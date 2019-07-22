@@ -1,0 +1,55 @@
+* {
+    color: #5e5e5e;
+}
+
+.part {
+    margin: 25px 50px 75px 50px;
+}
+
+.title {
+    text-align: center;
+    margin-top: 50px;
+    color: #007bff;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+a.anchor {
+    display: block;
+    position: relative;
+    top: -55px;
+    visibility: hidden;
+}
+
+b {
+    color: #007bff;
+}
+
+.top {
+    padding-top: 25px;
+}
+
+p {
+    margin-bottom: 0px;
+}
+
+#credits {
+    text-align: center;
+}
+
+img {
+    margin: 10px 0px 10px 0px;
+    width: 100%;
+    max-width: 800px;
+}
+
+pre code {
+    display: block;
+    width: 100%
+}
+
+button {
+    margin: 10px 0px 0px 0px;
+}
